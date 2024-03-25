@@ -2,7 +2,7 @@
 
 - A fullstack CRUD App.
 
-#Technology Used
+## Technology Used
 
 - Frontend Technology : React
 - Backend Technology : Spring Boot
